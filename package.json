@@ -27,7 +27,7 @@
     "module": "^1.2.5",
     "moment": "^2.29.4",
     "mongodb": "^4.9.1",
-    "mongoose": "^6.5.4",
+    "mongoose": "^6.6.0",
     "nodemon": "^2.0.19",
     "password-validator": "^5.3.0",
     "underscore": "^1.13.3",
